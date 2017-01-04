@@ -1,0 +1,7 @@
+Type of Error - NameError
+Path - from /Users/username/.rvm/rubies/ruby-2.2.2/bin/irb:11:in '<main>'
+Line number - 11
+
+What is the error - Raised when a given name is invalid or undefined.
+
+Solving the error - Creating the class for DockingStation which will initialise the new Object of the class
