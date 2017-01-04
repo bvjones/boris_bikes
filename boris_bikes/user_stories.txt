@@ -1,0 +1,7 @@
+Nouns: person, bike, docking station
+Verbs: use, release, working
+
+Objects         || Messages
+person          || use
+bike            || working
+docking station || release
